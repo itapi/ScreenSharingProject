@@ -1,0 +1,47 @@
+C:\Users\itapi\OneDrive\מסמכים\Visual Studio 2013\Projects\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.Properties.Resources.resources
+C:\Users\itapi\OneDrive\מסמכים\Visual Studio 2013\Projects\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.csproj.GenerateResource.Cache
+C:\Users\itapi\OneDrive\מסמכים\Visual Studio 2013\Projects\ScreenShareClient\ScreenShareClient\bin\Debug\ScreenShareClient.exe.config
+C:\Users\itapi\OneDrive\מסמכים\Visual Studio 2013\Projects\ScreenShareClient\ScreenShareClient\bin\Debug\ScreenShareClient.exe
+C:\Users\itapi\OneDrive\מסמכים\Visual Studio 2013\Projects\ScreenShareClient\ScreenShareClient\bin\Debug\ScreenShareClient.pdb
+C:\Users\itapi\OneDrive\מסמכים\Visual Studio 2013\Projects\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.Form1.resources
+C:\Users\itapi\OneDrive\מסמכים\Visual Studio 2013\Projects\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.exe
+C:\Users\itapi\OneDrive\מסמכים\Visual Studio 2013\Projects\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.pdb
+C:\Users\itapi\OneDrive\מסמכים\Visual Studio 2013\Projects\ScreenShareClient\ScreenShareClient\bin\Debug\SharpDX.dll
+C:\Users\itapi\OneDrive\מסמכים\Visual Studio 2013\Projects\ScreenShareClient\ScreenShareClient\bin\Debug\SharpDX.xml
+C:\Users\itapi\OneDrive\מסמכים\Visual Studio 2013\Projects\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.csprojResolveAssemblyReference.cache
+C:\Users\itapi\Desktop\itamar\ScreenShareClient\ScreenShareClient\bin\Debug\ScreenShareClient.exe.config
+C:\Users\itapi\Desktop\itamar\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.exe
+C:\Users\itapi\Desktop\itamar\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.pdb
+C:\Users\itapi\Desktop\itamar\ScreenShareClient\ScreenShareClient\bin\Debug\ScreenShareClient.exe
+C:\Users\itapi\Desktop\itamar\ScreenShareClient\ScreenShareClient\bin\Debug\ScreenShareClient.pdb
+C:\Users\itapi\Desktop\itamar\ScreenShareClient\ScreenShareClient\bin\Debug\SharpDX.dll
+C:\Users\itapi\Desktop\itamar\ScreenShareClient\ScreenShareClient\bin\Debug\SharpDX.xml
+C:\Users\itapi\Desktop\itamar\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.csprojResolveAssemblyReference.cache
+C:\Users\itapi\Desktop\itamar\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.Form1.resources
+C:\Users\itapi\Desktop\itamar\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.Properties.Resources.resources
+C:\Users\itapi\Desktop\itamar\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.csproj.GenerateResource.Cache
+C:\Users\itapi\Desktop\Test\ScreenShareClient\ScreenShareClient\bin\Debug\ScreenShareClient.exe.config
+C:\Users\itapi\Desktop\Test\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.exe
+C:\Users\itapi\Desktop\Test\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.pdb
+C:\Users\itapi\Desktop\Test\ScreenShareClient\ScreenShareClient\bin\Debug\ScreenShareClient.exe
+C:\Users\itapi\Desktop\Test\ScreenShareClient\ScreenShareClient\bin\Debug\ScreenShareClient.pdb
+C:\Users\itapi\Desktop\Test\ScreenShareClient\ScreenShareClient\bin\Debug\SharpDX.dll
+C:\Users\itapi\Desktop\Test\ScreenShareClient\ScreenShareClient\bin\Debug\SharpDX.xml
+C:\Users\itapi\Desktop\Test\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.csprojResolveAssemblyReference.cache
+C:\Users\itapi\Desktop\Test\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.Form1.resources
+C:\Users\itapi\Desktop\Test\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.Properties.Resources.resources
+C:\Users\itapi\Desktop\Test\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.csproj.GenerateResource.Cache
+C:\Users\itapi\Desktop\CurrentUpdatdScreenshare\ScreenShareClient\ScreenShareClient\bin\Debug\ScreenShareClient.exe.config
+C:\Users\itapi\Desktop\CurrentUpdatdScreenshare\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.exe
+C:\Users\itapi\Desktop\CurrentUpdatdScreenshare\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.pdb
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\ScreenShareClient\ScreenShareClient\bin\Debug\ScreenShareClient.exe.config
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.exe
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.pdb
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\ScreenShareClient\ScreenShareClient\bin\Debug\ScreenShareClient.exe
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\ScreenShareClient\ScreenShareClient\bin\Debug\ScreenShareClient.pdb
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\ScreenShareClient\ScreenShareClient\bin\Debug\SharpDX.dll
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\ScreenShareClient\ScreenShareClient\bin\Debug\SharpDX.xml
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.csprojResolveAssemblyReference.cache
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.Form1.resources
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.Properties.Resources.resources
+C:\Users\itapi\Desktop\itamar\CurrentUpdatdScreenshare\ScreenShareClient\ScreenShareClient\obj\Debug\ScreenShareClient.csproj.GenerateResource.Cache
